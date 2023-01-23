@@ -11,3 +11,6 @@ This structure is used in order to facilitate analysis of solution.
 ### 4 kyu:
 - [The Greatest Warrior](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu4/Warrior.java)
 - [Human readable duration format](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu4/TimeFormatter.java)
+
+### 5 kyu:
+- [Square Matrix Multiplication](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu5/MatrixMultiplication.java)
