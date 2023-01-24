@@ -24,3 +24,12 @@ This structure is used in order to facilitate analysis of solution.
 - [Valid Phone Number](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu6/ValidPhoneNumber.java)
 - [Who likes it?](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu6/WhoLikes.java)
 - [Tribonacci Sequence](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu6/Xbonacci.java)
+
+### 7 kyu:
+- [Make a function that does arithmetic!](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu7/ArithmeticFunction.java)
+- [Testing 1-2-3](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu7/LineNumbering.java)
+- [String ends with?](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu7/StringEnds.java)
+- [Is this a triangle?](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu7/TriangleTester.java)
+- [Vowel Count](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu7/Vowels.java)
+- [Binary Addition](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu7/binaryAdd.java)
+- [Isograms](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu7/isogram.java)
