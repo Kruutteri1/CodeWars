@@ -18,6 +18,7 @@ This structure is used in order to facilitate analysis of solution.
 - [Number of trailing zeros of N!](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu5/NumberZeros.java)
 
 ### 6 kyu:
+- [Roman Numerals Encoder](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu6/Conversion.java)
 - [Create Phone Number](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu6/CreatePhoneNumber.java)
 - [Sum of Digits / Digital Root](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu6/DRoot.java)
 - [Find the unique number](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu6/FindUniqueNum.java)
