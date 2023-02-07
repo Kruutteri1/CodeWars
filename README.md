@@ -18,6 +18,7 @@ This structure is used in order to facilitate analysis of solution.
 - [HumanReadableTime](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu5/HumanReadableTime.java)
 - [Square Matrix Multiplication](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu5/MatrixMultiplication.java)
 - [Number of trailing zeros of N!](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu5/NumberZeros.java)
+- [ROT13](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu5/Rot13.java)
 
 ### 6 kyu:
 - [Roman Numerals Encoder](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu6/Conversion.java)
