@@ -9,6 +9,7 @@ This structure is used in order to facilitate analysis of solution.
 
 ## Katas:
 ### 4 kyu:
+- [Range Extraction](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu4/Range.java)
 - [Roman Numerals Helper](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu4/RomanNumerals.java)
 - [The Greatest Warrior](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu4/Warrior.java)
 - [Human readable duration format](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu4/TimeFormatter.java)
