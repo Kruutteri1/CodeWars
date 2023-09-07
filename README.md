@@ -9,7 +9,7 @@ This structure is used in order to facilitate analysis of solution.
 
 ## Katas:
 ### 3 kyu:
--[How many are smaller than me II?](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu3/HowManySmaller.java)
+- [How many are smaller than me II?](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu3/HowManySmaller.java)
 
 ### 4 kyu:
 - [Range Extraction](https://github.com/Kruutteri1/CodeWars/blob/main/src/kyu4/Range.java)
